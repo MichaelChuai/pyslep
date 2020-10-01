@@ -1,5 +1,5 @@
 # pyslep (development)
-Sparse Learning with Efficient Projections for Python
+Sparse Learning with Efficient Projections for Python.
 
 ## Note
 This is the python version for [SLEP][slep].
